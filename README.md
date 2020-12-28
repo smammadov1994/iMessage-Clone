@@ -1,4 +1,8 @@
 ## iMessage-Clone
+<img width="607" alt="chatapp2" src="https://user-images.githubusercontent.com/52431957/103239303-1d553480-491b-11eb-9bd0-58a00dd02822.PNG">
+
+<img width="949" alt="chatapp" src="https://user-images.githubusercontent.com/52431957/103239304-1d553480-491b-11eb-94ae-734e193c0830.PNG">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
